@@ -9,4 +9,4 @@ Development expects to make attempts at making use of deep learning/neural netwo
 
 Communication protocol: TBD
 
-Language: Arduino
+Language: Arduino/Python(likely)
