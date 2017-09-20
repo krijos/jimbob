@@ -1,5 +1,5 @@
 # jimbob
-Currently under planning stage. Ideas/suggestions/discussions are very welcome in the comments!
+Currently under planning stage. Ideas/suggestions/discussions are very welcome in the issues section until the first development commit!
 
 Home automation system
 
